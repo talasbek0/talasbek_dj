@@ -1,1 +1,3 @@
-print('hello world')
+a = 'talasbek'
+for i in a:
+    print(i)
